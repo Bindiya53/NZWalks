@@ -1,6 +1,11 @@
 using System.Collections.Immutable;
 using Microsoft.EntityFrameworkCore;
-using ZWalks.API.Data;
+using NZWalks.Infrastructure.Contracts;
+using NZWalks.Infrastructure.Repository;
+using NZWalks.NZWalks.Infrastructure.Entities;
+using NZWalks.Service;
+using NZWalks.Service.Contracts;
+using NZWalks.Service.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,10 +15,12 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<NZWalksDbContext>(options =>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("NZWalksConnection"));
-});
+builder.Services.AddDbContext<NzwalksDbContext>(options =>
+                            options.UseSqlServer(builder.Configuration.GetConnectionString("NZWalksConnection")));
+builder.Services.AddTransient<IRegionService, RegionService>();
+builder.Services.AddTransient<IRegionRepository, RegionRepository>();
+
+
 
 var app = builder.Build();
 

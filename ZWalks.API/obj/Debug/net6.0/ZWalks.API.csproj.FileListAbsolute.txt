@@ -80,3 +80,9 @@ C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\obj\Debug\net6.0\ZWalks.API.p
 C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\obj\Debug\net6.0\ZWalks.API.genruntimeconfig.cache
 C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\ZWalks.API.pdb
 C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\obj\Debug\net6.0\ref\ZWalks.API.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\NZWalks.Dto.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\NZWalks.Infrastructure.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\NZWalks.Service.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\NZWalks.Service.pdb
+C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\NZWalks.Dto.pdb
+C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\NZWalks.Infrastructure.pdb

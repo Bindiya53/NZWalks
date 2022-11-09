@@ -1,0 +1,12 @@
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\bin\Debug\net6.0\NZWalks.Dto.deps.json
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\bin\Debug\net6.0\NZWalks.Dto.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\bin\Debug\net6.0\NZWalks.Dto.pdb
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\obj\Debug\net6.0\NZWalks.Dto.csproj.AssemblyReference.cache
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\obj\Debug\net6.0\NZWalks.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\obj\Debug\net6.0\NZWalks.Dto.AssemblyInfoInputs.cache
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\obj\Debug\net6.0\NZWalks.Dto.AssemblyInfo.cs
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\obj\Debug\net6.0\NZWalks.Dto.csproj.CoreCompileInputs.cache
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\obj\Debug\net6.0\NZWalks.Dto.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\obj\Debug\net6.0\refint\NZWalks.Dto.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\obj\Debug\net6.0\NZWalks.Dto.pdb
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Dto\obj\Debug\net6.0\ref\NZWalks.Dto.dll

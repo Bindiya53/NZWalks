@@ -1,0 +1,14 @@
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\bin\Debug\net6.0\NZWalks.Infrastructure.deps.json
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\bin\Debug\net6.0\NZWalks.Infrastructure.runtimeconfig.json
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\bin\Debug\net6.0\NZWalks.Infrastructure.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\bin\Debug\net6.0\NZWalks.Infrastructure.pdb
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\obj\Debug\net6.0\NZWalks.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\obj\Debug\net6.0\NZWalks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\obj\Debug\net6.0\NZWalks.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\obj\Debug\net6.0\NZWalks.Infrastructure.AssemblyInfo.cs
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\obj\Debug\net6.0\NZWalks.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\obj\Debug\net6.0\NZWalks.Infrastructure.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\obj\Debug\net6.0\refint\NZWalks.Infrastructure.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\obj\Debug\net6.0\NZWalks.Infrastructure.pdb
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\obj\Debug\net6.0\NZWalks.Infrastructure.genruntimeconfig.cache
+C:\Users\bindiya.tandel\Desktop\NZWalks\NZWalks.Infrastructure\obj\Debug\net6.0\ref\NZWalks.Infrastructure.dll

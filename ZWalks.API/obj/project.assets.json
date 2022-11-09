@@ -1242,6 +1242,43 @@
             "rid": "win"
           }
         }
+      },
+      "NZWalks.Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NZWalks.Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NZWalks.Dto.dll": {}
+        }
+      },
+      "NZWalks.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NZWalks.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NZWalks.Infrastructure.dll": {}
+        }
+      },
+      "NZWalks.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "NZWalks.Dto": "1.0.0",
+          "NZWalks.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NZWalks.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NZWalks.Service.dll": {}
+        }
       }
     }
   },
@@ -3712,6 +3749,21 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "NZWalks.Dto/1.0.0": {
+      "type": "project",
+      "path": "../NZWalks.Dto/NZWalks.Dto.csproj",
+      "msbuildProject": "../NZWalks.Dto/NZWalks.Dto.csproj"
+    },
+    "NZWalks.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../NZWalks.Infrastructure/NZWalks.Infrastructure.csproj",
+      "msbuildProject": "../NZWalks.Infrastructure/NZWalks.Infrastructure.csproj"
+    },
+    "NZWalks.Service/1.0.0": {
+      "type": "project",
+      "path": "../NZWalks.Service/NZWalks.Service.csproj",
+      "msbuildProject": "../NZWalks.Service/NZWalks.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3719,6 +3771,7 @@
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.0",
+      "NZWalks.Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -3748,7 +3801,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj": {
+              "projectPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

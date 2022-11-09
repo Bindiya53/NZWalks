@@ -11,6 +11,7 @@
           "Microsoft.EntityFrameworkCore": "7.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.0",
+          "NZWalks.Service": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -746,6 +747,28 @@
             "fileVersion": "5.0.20.51904"
           }
         }
+      },
+      "NZWalks.Dto/1.0.0": {
+        "runtime": {
+          "NZWalks.Dto.dll": {}
+        }
+      },
+      "NZWalks.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+        },
+        "runtime": {
+          "NZWalks.Infrastructure.dll": {}
+        }
+      },
+      "NZWalks.Service/1.0.0": {
+        "dependencies": {
+          "NZWalks.Dto": "1.0.0",
+          "NZWalks.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "NZWalks.Service.dll": {}
+        }
       }
     }
   },
@@ -1272,6 +1295,21 @@
       "sha512": "sha512-c1ho9WU9ZxMZawML+ssPKZfdnrg/OjR3pe0m9v8230z3acqphwvPJqzAkH54xRYm5ntZHGG1EPP3sux9H3qSPg==",
       "path": "system.windows.extensions/5.0.0",
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
+    },
+    "NZWalks.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NZWalks.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NZWalks.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

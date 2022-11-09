@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZWalks.API", "ZWalks.API\ZWalks.API.csproj", "{FB19FCC0-84E9-4DDB-A1C0-B8FE9DE46227}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NZWalks.Infrastructure", "NZWalks.Infrastructure\NZWalks.Infrastructure.csproj", "{A29362A5-9D00-44B5-B94A-8DFC0026033C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NZWalks.Service", "NZWalks.Service\NZWalks.Service.csproj", "{88FFCDB1-1F75-4628-91D6-2598B4F141AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NZWalks.Dto", "NZWalks.Dto\NZWalks.Dto.csproj", "{8FAAAFA9-D73B-4CB4-AA9D-578CABEF0D33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +24,17 @@ Global
 		{FB19FCC0-84E9-4DDB-A1C0-B8FE9DE46227}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB19FCC0-84E9-4DDB-A1C0-B8FE9DE46227}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB19FCC0-84E9-4DDB-A1C0-B8FE9DE46227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29362A5-9D00-44B5-B94A-8DFC0026033C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29362A5-9D00-44B5-B94A-8DFC0026033C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29362A5-9D00-44B5-B94A-8DFC0026033C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29362A5-9D00-44B5-B94A-8DFC0026033C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FFCDB1-1F75-4628-91D6-2598B4F141AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FFCDB1-1F75-4628-91D6-2598B4F141AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FFCDB1-1F75-4628-91D6-2598B4F141AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FFCDB1-1F75-4628-91D6-2598B4F141AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAAAFA9-D73B-4CB4-AA9D-578CABEF0D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAAAFA9-D73B-4CB4-AA9D-578CABEF0D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAAAFA9-D73B-4CB4-AA9D-578CABEF0D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAAAFA9-D73B-4CB4-AA9D-578CABEF0D33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
