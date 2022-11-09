@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj": {}
+    "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj": {
+    "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj",
+        "projectUniqueName": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj",
         "projectName": "ZWalks.API",
-        "projectPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj",
+        "projectPath": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj",
         "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\obj\\",
+        "outputPath": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bindiya.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"
