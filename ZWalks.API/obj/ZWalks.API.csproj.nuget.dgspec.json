@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj": {}
+    "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj": {}
   },
   "projects": {
     "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Dto\\NZWalks.Dto.csproj": {
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\NZWalks.Infrastructure.csproj": {
+    "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\NZWalks.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\NZWalks.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\NZWalks.Infrastructure.csproj",
         "projectName": "NZWalks.Infrastructure",
-        "projectPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\NZWalks.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\NZWalks.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bindiya.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj": {
+    "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj",
+        "projectUniqueName": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj",
         "projectName": "NZWalks.Service",
-        "projectPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj",
+        "projectPath": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj",
         "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\obj\\",
+        "outputPath": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bindiya.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -153,8 +153,8 @@
               "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Dto\\NZWalks.Dto.csproj": {
                 "projectPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Dto\\NZWalks.Dto.csproj"
               },
-              "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\NZWalks.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\NZWalks.Infrastructure.csproj"
+              "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\NZWalks.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Infrastructure\\NZWalks.Infrastructure.csproj"
               }
             }
           }
@@ -188,14 +188,14 @@
         }
       }
     },
-    "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj": {
+    "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj",
+        "projectUniqueName": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj",
         "projectName": "ZWalks.API",
-        "projectPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj",
+        "projectPath": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\ZWalks.API.csproj",
         "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\obj\\",
+        "outputPath": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\ZWalks.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bindiya.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -204,16 +204,14 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\auth0.management.apis": {},
-          "C:\\work\\Claim-Process-Management\\src\\shared\\Scs.Adapters": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj": {
-                "projectPath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj"
+              "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj": {
+                "projectPath": "c:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj"
               }
             }
           }
@@ -228,6 +226,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.0, )"

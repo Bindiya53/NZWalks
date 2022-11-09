@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using NZWalks.Infrastructure.Contracts;
 using NZWalks.NZWalks.Infrastructure.Entities;
@@ -20,8 +16,7 @@ namespace NZWalks.Infrastructure.Repository
         {
             try
             {
-                var result = await _nzwalkDbContext.Regions.ToListAsync();
-                return result;
+                return await _nzwalkDbContext.Regions.ToListAsync();      
             }
             catch(Exception e)
             {

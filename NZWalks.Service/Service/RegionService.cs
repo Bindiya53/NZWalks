@@ -21,21 +21,21 @@ namespace NZWalks.Service.Service
             {
                 var regionRepo = await _regionRepository.GetAllRegions();
                 List<Region> regionList = new List<Region>();
-                foreach (var region in regionRepo)
+                regionRepo.ToList().ForEach(regionRepo =>
+                
                 {
-                    Region regionData = new Region
+                    var regionDto = new Region()
                     {
-                        Id = region.Id,
-                        Name = region.Name,
-                        Code = region.Code,
-                        Area = region.Area,
-                        Lat = region.Lat,
-                        Long = region.Long,
-                        Population = region.Population,
-
+                        Id = regionRepo.Id,
+                        Name = regionRepo.Name,
+                        Code = regionRepo.Code,
+                        Area = regionRepo.Area,
+                        Lat = regionRepo.Lat,
+                        Long = regionRepo.Long,
+                        Population = regionRepo.Population,
                     };
-                    regionList.Add(regionData);              
-                }   
+                    regionList.Add(regionDto);              
+                });
                 return new ResponseDto{StatusCode=200, Response = regionList};
             }
             catch
