@@ -86,3 +86,7 @@ C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\NZWalks.Serv
 C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\NZWalks.Service.pdb
 C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\NZWalks.Dto.pdb
 C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\NZWalks.Infrastructure.pdb
+C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bindiya.tandel\Desktop\NZWalks\ZWalks.API\bin\Debug\net6.0\FluentValidation.dll

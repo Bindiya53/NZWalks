@@ -1,7 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using NZWalks.Dto;
 using NZWalks.Service.Contracts;
@@ -10,7 +7,7 @@ namespace ZWalks.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class RegionController : ControllerBase
+    public class RegionController : Controller
     {
         private readonly IRegionService _regionService;
         public RegionController(IRegionService regionService)
@@ -19,6 +16,7 @@ namespace ZWalks.API.Controllers
         }
         [HttpGet]
         [Route("GetAllRegions")]
+        [Authorize]
         public async Task<ActionResult<Region>> GetAllRegions()
         {
             var result = await _regionService.GetAllRegions();

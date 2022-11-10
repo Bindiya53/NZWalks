@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "inpIy6tjUYT4mrkFhHHDWZhuanSiZL6VWQdYWShsVQslbvFgBiuiaCLV1HOo47VUt788na/+69M2NhbI6KcVFQ==",
+  "dgSpecHash": "2sNrCjBI21lMna7olFmgxg5jQker2k12VRPJbuzx8eIpjn2fUISVY67vLB8roYo1mLKkVudjt8e4czYQMh99Rg==",
   "success": true,
   "projectFilePath": "C:\\Users\\bindiya.tandel\\Desktop\\NZWalks\\NZWalks.Service\\NZWalks.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\bindiya.tandel\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
